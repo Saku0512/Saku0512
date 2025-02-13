@@ -41,7 +41,7 @@
 <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComonRaven&show_icons=true&theme=dark" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ComonRaven&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComonRaven&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=void2610&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ComonRaven&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
 
 <!---
