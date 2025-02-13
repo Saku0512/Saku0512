@@ -44,8 +44,8 @@
 <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saku0512&show_icons=true&theme=dark" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saku0512&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saku0512&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saku0512&theme=dark&hide_border=false&border_radius=8.3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-  
+
+
 
 <!---
 ComonRaven/ComonRaven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
