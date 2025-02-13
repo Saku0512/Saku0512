@@ -9,6 +9,7 @@
   - Student
   - Web Developer
     - [Calculator](https://github.com/ComonRaven/school_Calculator)
+    - [MAIKE Chat](https://github.com/ComonRaven/school_MAIKEChat)
     - [StudyPhoto](https://github.com/ComonRaven/StudyPhoto)
   - Game Developer...?
     - [CatRun](https://github.com/ComonRaven/CatRun)
