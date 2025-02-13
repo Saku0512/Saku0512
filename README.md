@@ -7,7 +7,7 @@
 ## 📝 Profile
 - About
   - Student
-  - Web App Developer
+  - Web Developer
     - [Calculator](https://github.com/ComonRaven/school_Calculator)
     - [StudyPhoto](https://github.com/ComonRaven/StudyPhoto)
   - Game Developer...?
