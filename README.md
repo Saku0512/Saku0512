@@ -32,7 +32,7 @@
 - Lisp
 
 ## SNS Link 
-- [X](https://x.com/1225_won)
+- [X](https://x.com/Saku_0512_sec)
 
 ## 📈 statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComonRaven&theme=github_dark)
