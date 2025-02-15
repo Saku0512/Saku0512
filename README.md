@@ -44,6 +44,7 @@
 
 ## SNS Link 
 - [X](https://x.com/Saku_0512_sec)
+- [Qiita](https://qiita.com/Saku0512)
 
 ## 📈 statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saku0512&theme=github_dark)
