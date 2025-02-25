@@ -14,6 +14,7 @@
   - Game Developer...?
     - [CatRun](https://github.com/Saku0512/CatRun)
   - Security Beginner
+    - [Cryptology](https://github.com/Saku0512/Cryptology)
 - Affiliation
   - Sendai National College of Technology (Information Systems 2nd grade)
   - Sendai Kosen Programming Club
