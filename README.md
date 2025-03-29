@@ -11,7 +11,7 @@
     - [Calculator](https://github.com/Saku0512/school_Calculator)
     - [MAIKE Chat](https://github.com/Saku0512/school_MAIKEChat)
     - [StudyPhoto](https://github.com/Saku0512/StudyPhoto)
-  - Game Developer...?
+  - Android Developer...?
     - [CatRun](https://github.com/Saku0512/CatRun)
   - Security Beginner
 - Affiliation
