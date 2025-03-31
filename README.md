@@ -24,10 +24,10 @@
 
 ## 🌱 Skills
 ### Language
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,php,java&theme=dark"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,ubuntu,unity,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,ubuntu,unity,vscode,androidstudio&theme=dark" />
 
 ### Learning
 - Security (Web, AD)
