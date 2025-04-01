@@ -50,8 +50,7 @@
 ## 📈 statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saku0512&theme=github_dark)　
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saku0512&utcOffset=9&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saku0512&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saku0512&show_icons=true&theme=dark) <br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saku0512&theme=github_dark) <br>
 <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saku0512&show_icons=true&theme=dark" />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saku0512&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saku0512&show_icons=true&theme=transparent)
