@@ -13,7 +13,7 @@
     - [StudyPhoto](https://studyphoto.net)
   - Android Developer...?
     - [CatRun](https://github.com/Saku0512/CatRun)
-    - [Collec Proverb](https://github.com/Saku0512/Collect-Proverb)
+    - [Collect Proverb](https://github.com/Saku0512/Collect-Proverb)
   - Security Beginner
 - Affiliation
   - Sendai National College of Technology (Information Systems 2nd grade)
