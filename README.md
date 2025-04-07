@@ -17,7 +17,7 @@
   - Security Beginner
     - [pdfveil](https://github.com/Saku0512/pdfveil)
 - Affiliation
-  - Sendai National College of Technology (Information Systems 2nd grade)
+  - Sendai National College of Technology (Information Systems 3rd grade)
   - Sendai Kosen Programming Club
 - performance
   - KOSEN Security Contest 2024 5th
