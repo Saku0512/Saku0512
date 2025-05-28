@@ -22,7 +22,7 @@
 - performance
   - KOSEN Security Contest 2024 5th
 - Age
-  - 17 years old (2007/5/28 ~)
+  - 18 years old (2007/5/28 ~)
 
 ## 🌱 Skills
 ### Language
