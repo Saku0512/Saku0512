@@ -26,7 +26,7 @@
 
 ## 🌱 Skills
 ### Language
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,php,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,svelte,php,java,go&theme=dark"/>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,ubuntu,unity,vscode,androidstudio&theme=dark" />
