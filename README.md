@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,svelte,php,java,go&theme=dark"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,ubuntu,unity,vscode,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,ubuntu,unity,vscode,androidstudio,docker&theme=dark" />
 
 ### Learning
 - Security (Web, AD)
