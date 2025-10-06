@@ -10,7 +10,8 @@
   - Web Developer
     - [Calculator](https://github.com/Saku0512/school_Calculator)
     - [MAIKE Chat](https://github.com/Saku0512/school_MAIKEChat)
-    - [StudyPhoto](https://studyphoto.net)
+    - [StudyPhoto](https://github.com/Saku0512/StudyPhoto)
+    - [GYOUJI_HP](https://github.com/Saku0512/GYOUJI_HP)
   - Android Developer...?
     - [CatRun](https://github.com/Saku0512/CatRun)
     - [Collect Proverb](https://github.com/Saku0512/Collect-Proverb)
