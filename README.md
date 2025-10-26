@@ -24,7 +24,7 @@
   - Sendai Kosen Programming Club
 - performance
   - KOSEN Security Contest 2024 5th
-  - JPHACKS in Sendai 
+  - JPHACKS in Sendai Secure Cycle Co., Ltd. Unternehmensauszeichnung
   - KOSEN Security Contest 2025 6th
 - Age
   - 18 years old (2007/5/28 ~)
