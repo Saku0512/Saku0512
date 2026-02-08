@@ -29,7 +29,7 @@
   - JPHACKS in Sendai Secure Cycle Co., Ltd. Unternehmensauszeichnung
   - KOSEN Security Contest 2025 6th
   - TSG CTF 2025 Japan 18th Global 55th
-  - 防衛省サイバーコンテスト 13th
+  - 防衛省サイバーコンテスト 13th 学生団体部門 5位
 - Age
   - 18 years old (2007/5/28 ~)
 
