@@ -32,6 +32,7 @@
   - TSG CTF 2025 Japan 18th Global 55th
   - 総務省主催全国型CTF 2025 全体21位 / 仙台会場 3位
   - 仙台CTF 2025 4位
+  - SWIMMER OSINT CTF 382th
   - 防衛省サイバーコンテスト 13th 学生団体部門 5位
 - Age
   - 18 years old (2007/5/28 ~)
