@@ -27,6 +27,7 @@
 - performance
   - KOSEN Security Contest 2024 5th
   - JPHACKS in Sendai Secure Cycle Co., Ltd. Unternehmensauszeichnung
+  - FFRI×NFLabs. Cybersecurity Challenge 2025 14位/76
   - KOSEN Security Contest 2025 6th
   - TSG CTF 2025 Japan 18th Global 55th
   - 防衛省サイバーコンテスト 13th 学生団体部門 5位
